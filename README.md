@@ -9,6 +9,7 @@
 | [0283-move-zeroes](https://github.com/Akarsh6966969/leetcodeQA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Akarsh6966969/leetcodeQA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akarsh6966969/leetcodeQA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0485-max-consecutive-ones](https://github.com/Akarsh6966969/leetcodeQA/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
 | ------- |
